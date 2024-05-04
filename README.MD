@@ -1,6 +1,6 @@
 # GitHub 사용법 정리 
 
-## README.MD 꾸미기 H2
+## README.MD 꾸미기 
 
 ### MARKDOWN HEADER 꾸미기
 
