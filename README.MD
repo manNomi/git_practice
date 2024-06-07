@@ -152,6 +152,9 @@ git config --list
 config 설정하는 방법
 -자기가 누구인지 나타내는 것
 ```
-git config --global user.name "한만욱"
-git config --global user.email"hanmw110@naver.com"
+git config user.name "manNomi"  -> 내가 누군지를 밝히는 것 
+git config user.email "hanmw110@naver.com" -> 마찬가지 이메일
+
+git config --list  -> config 확인 
 ```
+
