@@ -158,3 +158,6 @@ git config user.email "hanmw110@naver.com" -> 마찬가지 이메일
 git config --list  -> config 확인 
 ```
 
+https://hoohaha.tistory.com/37
+-> 깃허브 토큰 만드는 방법
+
